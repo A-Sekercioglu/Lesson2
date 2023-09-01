@@ -12,7 +12,6 @@ namespace lesson2
         {
             int i = 0;
         basla:
-          i++;
             if(i >= 10000) //eğer i 10000 den büyük veya ona eşitse a noktasına gitsin
             {
                 goto a;
